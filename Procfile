@@ -1,0 +1,1 @@
+web: gunicorn gooey.wsgi --log-file -
